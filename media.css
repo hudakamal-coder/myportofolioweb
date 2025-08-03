@@ -1,10 +1,10 @@
 
  
 @media only screen and  (min-width:350px) and  (max-width:500px){
-
+ 
    .sec-2-text h2{
    margin-right: 5px;
-   font-size: 18px;
+   font-size: 20px;
  }
      
  .sec-2-text h4{
@@ -18,9 +18,9 @@
 }
 #about .sec-3-img{
     position: absolute;
-    top:400px;
-    width: 100px;
-    height: 150px;
+    top:580px;
+    width: 150px;
+    height: 200px;
    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
  }
  
@@ -29,10 +29,11 @@
     height: 100%;
  }
   .sec-2-a .icon{
-   font-size: 20px;
+   font-size: 30px;
+    margin-left:-10px;
   }
   .sec-3 h2{
-     font-size: 18px;
+     font-size:22px;
      margin-left: -180px;
     
  }
@@ -44,15 +45,15 @@
  .sec-3 .sec-p-3-1{
    margin-top: 70px;
    margin-left: -55px;
-   font-size: 13px;
+   font-size: 15px;
  }
 .sec-3 .sec-p-3-2{
-    font-size: 13px;
+    font-size: 15px;
       margin-left: -55px;
    
 }
 .sec-3 .sec-ul-3{
-   font-size: 12px;
+   font-size: 14px;
    margin-top: 30px;
     
 }
