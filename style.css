@@ -25,6 +25,24 @@
     color: #E9D7C0;
     
 }
+
+#offcanvasExampleLabel  .navbar-brand{
+    color:#9B7D61 ;
+    font-size: 30px;
+    font-weight: 700;
+}
+.offcanvas-body 
+.nav-item .nav-link{
+    color:black;
+    font-size: 17px;
+    font-weight: 700;
+    transition: 2s ease;
+}
+.offcanvas-body 
+.nav-item .nav-link:hover{
+    color: #E9D7C0;
+    
+}
 .navbar-nav{
     margin-left: 15px;
     margin-top: 5px;
@@ -234,4 +252,5 @@
     color:#E9D7C0;
     font-size: 30px;
     font-weight: 700;
+   
 }
